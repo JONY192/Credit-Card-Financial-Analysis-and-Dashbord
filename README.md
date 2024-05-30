@@ -17,6 +17,8 @@
 The Credit Card Financial Analysis and Dashboard project aims to provide comprehensive insights into credit card transactions using Power BI. This project helps stakeholders understand spending patterns, identify trends, and make data-driven decisions to improve financial performance.
 <img align="right" alt="PNG" src="https://cdn.discordapp.com/attachments/868081577303875625/1245611165640425503/image.png?ex=6659614c&is=66580fcc&hm=e08e7692525d0fdf9bfdec4c7c2256c9ab02072aaab09cba42c3518ffb465b34&" width="500"/>
 
+
+
 ## Features
 
 - Overview of credit card transactions.
