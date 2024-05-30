@@ -15,7 +15,7 @@
 ## Introduction
 
 The Credit Card Financial Analysis and Dashboard project aims to provide comprehensive insights into credit card transactions using Power BI. This project helps stakeholders understand spending patterns, identify trends, and make data-driven decisions to improve financial performance.
-<img align="right" alt="GIF" src="https://static.bankbazaar.com/images/landing/loading-credit-tracker-v3.gif" width="500"/>
+<img align="right" alt="GIF" src="https://static.bankbazaar.com/images/landing/loading-credit-tracker-v3.gif" width="200" height="200"/>
 
 ## Features
 
